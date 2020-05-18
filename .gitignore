@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+local_data/
+jupyter_tests/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.notes
