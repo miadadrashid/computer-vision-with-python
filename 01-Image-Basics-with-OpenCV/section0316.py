@@ -40,7 +40,7 @@ def draw_rectangle(event,x,y,flags,param):
     
     elif event == cv2.EVENT_LBUTTONUP:
         drawing = False
-        cv2.rectangle(img,(ix,iy),(x,y),(0,255,0),-1)5
+        cv2.rectangle(img,(ix,iy),(x,y),(0,255,0),-1)
 
 cv2.namedWindow(winname='my_drawing')
 
