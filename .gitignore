@@ -6,3 +6,4 @@ jupyter_tests/
 __pycache__/
 *.pyc
 *.notes
+Pipfile.lock
