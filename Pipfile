@@ -10,6 +10,8 @@ pylint = "*"
 jupyterlab = "*"
 opencv-python = "*"
 matplotlib = "*"
+keras = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.8"
